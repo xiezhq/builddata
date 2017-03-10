@@ -1,0 +1,41 @@
+ALA   5   162.45
+ARG  11   299.59
+ASN   8   212.65
+ASP   8   207.00
+CYS   6   189.71
+GLN   9   239.16
+GLU   9   231.87
+GLY   4   130.96
+HIS  10   247.57
+ILE   8   241.17
+LEU   8   244.02
+LYS   9   265.02
+MET   8   254.84
+PHE  11   267.02
+PRO   7   190.60
+SER   6   171.92
+THR   7   200.10
+TRP  14   310.53
+TYR  12   283.92
+VAL   7   213.40
+END
+asa2pep par/ProtOr.resi-defs.mod-by-xie.dat par/ProtOr.atom-defs.dat peptide/glyala.pep
+asa2pep par/ProtOr.resi-defs.mod-by-xie.dat par/ProtOr.atom-defs.dat peptide/glyarg.pep
+asa2pep par/ProtOr.resi-defs.mod-by-xie.dat par/ProtOr.atom-defs.dat peptide/glyasn.pep
+asa2pep par/ProtOr.resi-defs.mod-by-xie.dat par/ProtOr.atom-defs.dat peptide/glyasp.pep
+asa2pep par/ProtOr.resi-defs.mod-by-xie.dat par/ProtOr.atom-defs.dat peptide/glycys.pep
+asa2pep par/ProtOr.resi-defs.mod-by-xie.dat par/ProtOr.atom-defs.dat peptide/glygln.pep
+asa2pep par/ProtOr.resi-defs.mod-by-xie.dat par/ProtOr.atom-defs.dat peptide/glyglu.pep
+asa2pep par/ProtOr.resi-defs.mod-by-xie.dat par/ProtOr.atom-defs.dat peptide/glygly.pep
+asa2pep par/ProtOr.resi-defs.mod-by-xie.dat par/ProtOr.atom-defs.dat peptide/glyhis.pep
+asa2pep par/ProtOr.resi-defs.mod-by-xie.dat par/ProtOr.atom-defs.dat peptide/glyile.pep
+asa2pep par/ProtOr.resi-defs.mod-by-xie.dat par/ProtOr.atom-defs.dat peptide/glyleu.pep
+asa2pep par/ProtOr.resi-defs.mod-by-xie.dat par/ProtOr.atom-defs.dat peptide/glylys.pep
+asa2pep par/ProtOr.resi-defs.mod-by-xie.dat par/ProtOr.atom-defs.dat peptide/glymet.pep
+asa2pep par/ProtOr.resi-defs.mod-by-xie.dat par/ProtOr.atom-defs.dat peptide/glyphe.pep
+asa2pep par/ProtOr.resi-defs.mod-by-xie.dat par/ProtOr.atom-defs.dat peptide/glypro.pep
+asa2pep par/ProtOr.resi-defs.mod-by-xie.dat par/ProtOr.atom-defs.dat peptide/glyser.pep
+asa2pep par/ProtOr.resi-defs.mod-by-xie.dat par/ProtOr.atom-defs.dat peptide/glythr.pep
+asa2pep par/ProtOr.resi-defs.mod-by-xie.dat par/ProtOr.atom-defs.dat peptide/glytrp.pep
+asa2pep par/ProtOr.resi-defs.mod-by-xie.dat par/ProtOr.atom-defs.dat peptide/glytyr.pep
+asa2pep par/ProtOr.resi-defs.mod-by-xie.dat par/ProtOr.atom-defs.dat peptide/glyval.pep

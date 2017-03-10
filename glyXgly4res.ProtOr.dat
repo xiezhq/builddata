@@ -1,0 +1,41 @@
+ALA   5   117.64
+ARG  11   249.63
+ASN   8   168.10
+ASP   8   156.73
+CYS   6   139.66
+GLN   9   189.41
+GLU   9   187.59
+GLY   4    83.75
+HIS  10   198.71
+ILE   8   191.12
+LEU   8   199.15
+LYS   9   213.30
+MET   8   210.08
+PHE  11   222.55
+PRO   7   145.27
+SER   6   127.44
+THR   7   150.70
+TRP  14   265.17
+TYR  12   239.46
+VAL   7   163.75
+END
+asa2pep par/ProtOr.resi-defs.mod-by-xie.dat par/ProtOr.atom-defs.dat peptide/alagly.pdb
+asa2pep par/ProtOr.resi-defs.mod-by-xie.dat par/ProtOr.atom-defs.dat peptide/arggly.pdb
+asa2pep par/ProtOr.resi-defs.mod-by-xie.dat par/ProtOr.atom-defs.dat peptide/asngly.pdb
+asa2pep par/ProtOr.resi-defs.mod-by-xie.dat par/ProtOr.atom-defs.dat peptide/aspgly.pdb
+asa2pep par/ProtOr.resi-defs.mod-by-xie.dat par/ProtOr.atom-defs.dat peptide/cysgly.pdb
+asa2pep par/ProtOr.resi-defs.mod-by-xie.dat par/ProtOr.atom-defs.dat peptide/glngly.pdb
+asa2pep par/ProtOr.resi-defs.mod-by-xie.dat par/ProtOr.atom-defs.dat peptide/glugly.pdb
+asa2pep par/ProtOr.resi-defs.mod-by-xie.dat par/ProtOr.atom-defs.dat peptide/glygly.pdb
+asa2pep par/ProtOr.resi-defs.mod-by-xie.dat par/ProtOr.atom-defs.dat peptide/hisgly.pdb
+asa2pep par/ProtOr.resi-defs.mod-by-xie.dat par/ProtOr.atom-defs.dat peptide/ilegly.pdb
+asa2pep par/ProtOr.resi-defs.mod-by-xie.dat par/ProtOr.atom-defs.dat peptide/leugly.pdb
+asa2pep par/ProtOr.resi-defs.mod-by-xie.dat par/ProtOr.atom-defs.dat peptide/lysgly.pdb
+asa2pep par/ProtOr.resi-defs.mod-by-xie.dat par/ProtOr.atom-defs.dat peptide/metgly.pdb
+asa2pep par/ProtOr.resi-defs.mod-by-xie.dat par/ProtOr.atom-defs.dat peptide/phegly.pdb
+asa2pep par/ProtOr.resi-defs.mod-by-xie.dat par/ProtOr.atom-defs.dat peptide/progly.pdb
+asa2pep par/ProtOr.resi-defs.mod-by-xie.dat par/ProtOr.atom-defs.dat peptide/sergly.pdb
+asa2pep par/ProtOr.resi-defs.mod-by-xie.dat par/ProtOr.atom-defs.dat peptide/thrgly.pdb
+asa2pep par/ProtOr.resi-defs.mod-by-xie.dat par/ProtOr.atom-defs.dat peptide/trpgly.pdb
+asa2pep par/ProtOr.resi-defs.mod-by-xie.dat par/ProtOr.atom-defs.dat peptide/tyrgly.pdb
+asa2pep par/ProtOr.resi-defs.mod-by-xie.dat par/ProtOr.atom-defs.dat peptide/valgly.pdb

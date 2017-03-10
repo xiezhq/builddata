@@ -1,0 +1,28 @@
+# COLUMNS:
+# ResidueName NumberOfAtomsInStandardResidue Polarity Hydrophility Charge
+#
+# Polarity: 1 for polar residue, -1 for nonpolar residue, 0 for others
+# Hydrophility: 1 for hydrophilic residue, -1 for hydrophobic residue, 0 for special residue
+# Charge: 1 for positively charged residue, -1 for negatively charged residue, 0 for others
+#
+ALA   5  -1 -1  0
+ARG  11   1  1  1
+ASN   8   1  1  0
+ASP   8   1  1 -1
+CYS   6   1  0  0
+GLN   9   1  1  0
+GLU   9   1  1 -1
+GLY   4  -1  0  0
+HIS  10   1  1  1
+ILE   8  -1 -1  0
+LEU   8  -1 -1  0
+LYS   9   1  1  1
+MET   8  -1 -1  0
+PHE  11  -1 -1  0
+PRO   7  -1  0  0
+SER   6   1  1  0
+THR   7   1  1  0
+TRP  14  -1 -1  0
+TYR  12   1 -1  0
+VAL   7  -1 -1  0
+END

@@ -1,0 +1,290 @@
+GLY 4
+  O   O1
+  C   C3
+  CA  C4HH
+  N   N3H
+
+ALA 5
+  O   O1
+  C   C3
+  CA  C4H
+  N   N3H
+  CB  C4HHH
+
+VAL 7
+  O   O1
+  C   C3
+  CA  C4H
+  N   N3H
+  CB  C4H
+  CG1 C4HHH
+  CG2 C4HHH
+
+LEU 8
+  O   O1
+  C   C3
+  CA  C4H
+  N   N3H
+  CB  C4HH
+  CG  C4H
+  CD1 C4HHH
+  CD2 C4HHH
+
+ILE 8
+  O   O1
+  C   C3
+  CA  C4H
+  N   N3H
+  CB  C4H
+  CG1 C4HH
+  CG2 C4HHH
+  CD1 C4HHH
+
+PRO 7
+  O   O1
+  C   C3
+  CA  C4H
+  N   N3
+  CB  C4HH
+  CG  C4HH
+  CD  CPRO
+
+MET 8
+  O   O1
+  C   C3
+  CA  C4H
+  N   N3H
+  CB  C4HH
+  CG  C4HH
+  SD  S2
+  CE  C4HHH
+
+PHE 11
+  O   O1
+  C   C3
+  CA  C4H
+  N   N3H
+  CB  C4HH
+  CG  C3
+  CD1 C3H
+  CD2 C3H
+  CE1 C3H
+  CE2 C3H
+  CZ  C3H
+
+TYR 12
+  O   O1
+  C   C3
+  CA  C4H
+  N   N3H
+  CB  C4HH
+  CG  C3
+  CD1 C3H
+  CD2 C3H
+  CE1 C3H
+  CE2 C3H
+  CZ  C3
+  OH  O2H
+
+TRP 15
+  O   O1
+  C   C3
+  CA  C4H
+  N   N3H
+  CB  C4HH
+  CG  C3
+  CD1 C3H
+  NE1 N3H
+  CD2 C3
+  CE2 C3
+  CE3 C3H
+  CZ3 C3H
+  CZ2 C3H
+  CH2 C3H
+  CEH2 =CH2
+
+SER 7
+  O   O1
+  C   C3
+  CA  C4H
+  N   N3H
+  CB  C4HH
+  OG  O2H
+  OG1 =OG
+
+THR 8
+  O   O1
+  C   C3
+  CA  C4H
+  N   N3H
+  CB  C4H
+  OG1 O2H
+  CG2 C4HHH
+  CG  =CG2
+
+ASN 8
+  O   O1
+  C   C3
+  CA  C4H
+  N   N3H
+  CB  C4HH
+  CG  C3
+  OD1 O1
+  ND2 N3HH
+
+GLN 9
+  O   O1
+  C   C3
+  CA  C4H
+  N   N3H
+  CB  C4HH
+  CG  C4HH
+  CD  C3
+  OE1 O1
+  NE2 N3HH
+
+CYS 6
+  O   O1
+  C   C3
+  CA  C4H
+  N   N3H
+  CB  C4HH
+  SG  S2H
+
+CSS 6
+  O   O1
+  C   C3
+  CA  C4H
+  N   N3H
+  CB  C4HH
+  SG  S2
+
+HIS 10
+  O   O1
+  C   C3
+  CA  C4H
+  N   N3H
+  CB  C4HH
+  CG  C3
+  ND1 N3
+  CD2 C3H
+  CE1 C3H
+  NE2 N3H
+
+GLU 9
+  O   O1
+  C   C3
+  CA  C4H
+  N   N3H
+  CB  C4HH
+  CG  C4HH
+  CD  C3
+  OE1 O1O2H
+  OE2 O1O2H
+
+ASP 8
+  O   O1
+  C   C3
+  CA  C4H
+  N   N3H
+  CB  C4HH
+  CG  C3
+  OD1 O1O2H
+  OD2 O1O2H
+
+ARG 11
+  O   O1
+  C   C3
+  CA  C4H
+  N   N3H
+  CB  C4HH
+  CG  C4HH
+  CD  C4HH
+  NE  N3H
+  CZ  C3
+  NH1 N3HH
+  NH2 N3HH
+
+LYS 9
+  O   O1
+  C   C3
+  CA  C4H
+  N   N3H
+  CB  C4HH
+  CG  C4HH
+  CD  C4HH
+  CE  C4HH
+  NZ  N4HHH
+
+ZN 1
+  ZN  DEFAULT
+
+HEM 39
+  FE  DEFAULT
+  CMA C4HHH
+  CMB C4HHH
+  CMC C4HHH
+  CMD C4HHH
+  CAA C4HH
+  CBA C4HH
+  CAD C4HH
+  CBD C4HH
+  CAB C3H
+  CH  C3H
+  CAC C3H
+  CBC C3HH
+  CBB C3HH
+  NA  N3
+  NB  N3
+  NC  N3
+  ND  N3
+  O1A O1O2H
+  O1B O1O2H
+  O1C O1O2H
+  O1D O1O2H
+  C1A C3
+  C2A C3
+  C3A C3
+  C4A C3
+  CGA C3
+  C1B C3
+  C2B C3
+  C3B C3
+  C4B C3
+  C1C C3
+  C2C C3
+  C3C C3
+  C4C C3
+  C1D C3
+  C2D C3
+  C3D C3
+  C4D C3
+
+ACE 1
+  CH3 C4HHH
+
+WAT 2
+  O   DEFAULT
+  OW  =O
+
+HOH 2
+  O   DEFAULT
+  OW  =O
+
+DOD 2
+  O   DEFAULT
+  OW  =O
+
+DUM 11
+  OT  O1O2H
+  OXT O1O2H
+  OT1 O1O2H
+  OT2 O1O2H
+  OE  O1O2H
+  NT  N4HHH
+  Z   DEFAULT
+  DUM DEFAULT
+  NDUM N4HHH
+  ODUM O2H
+  CDUM C4HH
+
