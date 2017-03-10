@@ -1,0 +1,11 @@
+The package include interf and some other utilities (asa2pep, asa2prot and searchpdb). The interf calculate the interface between subunits in a protein complex structure. The codes were basically written in 2005-2006. Yeah, they are very old. So, I currently don't have a plan to improve these codes. :-(
+
+# Under Linux/Unix, you can simply compile all programs in the package.
+make
+# If you just like to compile the specific program, e.g. inter, you should:
+make interf
+# Once the compiler sucha as gcc successfully compiled the codes, you can run the program now.
+# For example, you want to run interf:
+./interf
+# I didn't write the good help for these programs as they were orginally just for my own use.
+# If you have some experience in C, you can have a look at the C codes and easily find out what the program does and how to run it.
