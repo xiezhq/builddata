@@ -5,18 +5,18 @@ The parameter files of atomic VDW (Van Der Waals) radii are placed in par direct
 Zhiqun Xie
 Mar 9, 2017
 
-# Under Linux/Unix, you can simply compile all programs in the package.
+Under Linux/Unix, you can simply compile all programs in the package.
 ```sh
 make
 ```
-# If you just like to compile the specific program, e.g. interf, you should:
+If you just like to compile the specific program, e.g. interf, you should:
 ```sh
 make interf
 ```
-# Once the compiler sucha as gcc successfully compiled the codes, you can run the program now.
-# For example, you want to run interf:
+Once the compiler sucha as gcc successfully compiled the codes, you can run the program now.
+For example, you want to run interf:
 ```sh
 ./interf
 ```
-# I didn't write the good help function for these programs as they were orginally just for my own use.
-# If you have some experiences in C, you can have a look at the C codes and can easily figure out what the programs do and how to run them.
+I didn't write the good help function for these programs as they were orginally just for my own use.
+If you have some experiences in C, you can have a look at the C codes and can easily figure out what the programs do and how to run them.
