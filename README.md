@@ -4,8 +4,7 @@ I didn't write the detailed help function for these programs as they were orgina
 
 The parameter files of atomic VDW (Van Der Waals) radii are placed in par directory. The files in peptide directory are atomic coordinate file (PDB format) of the standard tripeptide structures I built using InsightII 2005 package, and the dipeptides for N- and C-terminal residues are also included. 
 
-Zhiqun Xie
-Mar 9, 2017
+- Zhiqun Xie, Mar 9, 2017
 
 ## How to install and run
 
