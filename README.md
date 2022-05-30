@@ -1,4 +1,4 @@
-The package include interf and some other utilities (asa2pep, asa2prot and searchpdb). The interf calculates the interface between subunits in a protein complex structure. The codes were basically written in 2005-2006 but a few of them were written almost 20 years ago (1997). I currently don't have a plan to improve these obsolete codes.
+The package include interf and some other utilities (asa2pep, asa2prot and searchpdb). The interf calculates the interface between subunits in a protein complex structure. The codes were basically written in 2005-2006 but a few of them were written almost 20 years ago (1997). I currently don't have plan to improve these obsolete codes.
 
 I didn't write the detailed help function for these programs as they were initially developed for my own use. If you have some experiences in C, you can have a look at the C codes and can easily figure out what the programs do and how to run them.
 
